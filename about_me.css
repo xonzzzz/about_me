@@ -1,0 +1,52 @@
+        div {
+         background-color: #ffe6ff;
+         width: 950px;
+          margin-top: 0px;
+         margin-right: auto;
+         margin-bottom: 0px;
+         margin-left: auto;
+         border:5px solid black;
+         padding:3px 3px 3px 3px;
+         margin:10px 10px 10px 160px;
+        text-align:center;
+        display:inline-block;
+        }
+        img{
+          width:50%;
+          height:50%;
+        }
+        .favorite-food{
+          font-size: 1.3em;
+          color:#4dff98;
+        }
+        .other-food{
+          font-size: 1.1em;
+          color:#5be8dc;
+        }
+        body {
+        background-image: url(http://www.dolliehost.com/dolliecrave/myspace-layouts/space/5.gif);
+         background-repeat: repeat;
+        }
+        a{color: #ffd700;
+          text-decoration:none;
+          background-color:#b76e79;
+        }
+        h1{
+            color:#4dff98;
+
+          font-family: 'Open Sans', sans-serif;
+        }
+        h2{
+          color:#ee82ee;
+        font-family: 'Open Sans', sans-serif;
+        }
+        p{
+        color:#bbaaee;
+        font-family: 'Open Sans', sans-serif;
+        font-size:1.2em;
+
+        }
+        strong {
+          color:#bbaaee;
+          font-family: 'Open Sans', sans-serif;
+        }
